@@ -2,6 +2,8 @@
   *Mencari data kualitatif dan kuantitatif
 - Menganalisa produk untuk Affiliate
   *Mencari data tidak terstruktur di platform tiktok
+  *Bekerja sama dengan tiktok untuk menarik data pengguna
 - Menganalisa sebuah produk perusahaan yang ingin di jual
   *Mencari data sturcture & unstructure di berbagai platform 
   *Mencari behaviour pengguna platform
+ 
