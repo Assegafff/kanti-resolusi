@@ -4,3 +4,4 @@
   *Mencari data tidak terstruktur di platform tiktok
 - Menganalisa sebuah produk perusahaan yang ingin di jual
   *Mencari data sturcture & unstructure di berbagai platform 
+  *Mencari behaviour pengguna platform
